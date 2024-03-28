@@ -1,0 +1,8 @@
+.okay_list .gm.okay_list_features_name{
+    width: calc(100% - 240px);
+}
+.okay_list .gm.okay_list_features_name {
+    width: calc(100% - 240px);
+    position: relative;
+    text-align: left;
+}
